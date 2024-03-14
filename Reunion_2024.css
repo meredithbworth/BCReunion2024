@@ -1,0 +1,31 @@
+.mat-menu-trigger {
+	display: none !important;
+}
+
+/* .check {
+	display: none !important;
+} */
+
+.ng-star-inserted {
+	color: black;
+}
+
+.ng-tns-c222-15.ng-star-inserted {
+	color: white;
+}
+
+.ng-tns-c222-20.ng-star-inserted {
+    color:white;
+}
+
+.ticket-title.ng-tns-c222-20 {
+    color: black;
+}
+
+.session-count-text.ng-tns-c222-20 {
+    color: black;
+}
+
+.event-name.ng-tns-c222-20.ng-star-inserted {
+    color: black;
+}
